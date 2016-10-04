@@ -8,3 +8,4 @@ def cap(S):
     if w != S[-1]:
       t = t + " "
   return t
+  
